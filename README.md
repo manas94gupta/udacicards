@@ -9,6 +9,6 @@ To install and start the app, run the following commands in this directory:
 * `npm install`
 * `npm start`
 
-# Note
+## Note
 
 This app is only been tested on an android device.
